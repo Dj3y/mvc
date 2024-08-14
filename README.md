@@ -1,3 +1,3 @@
 # mvc
 
-Ce parcours concerne le MVC (Modèle/Vue/Contrôleur).
+Ce parcours concerne l'apprentissage de MVC (Modèle/Vue/Contrôleur).
